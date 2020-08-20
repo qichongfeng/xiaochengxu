@@ -1,4 +1,6 @@
 # 微信小程序组件
+### 墨子记账,欢迎体验
+![pngpractice.png](https://i.loli.net/2020/08/20/dJjcfHFDn7h3kVG.png)
 
 ### 自定义底部tabba凸起
 
