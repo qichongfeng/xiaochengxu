@@ -1,0 +1,4 @@
+.nf-canvas {
+  display: flex;
+  justify-content: center;
+}

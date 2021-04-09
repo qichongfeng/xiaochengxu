@@ -1,0 +1,5 @@
+<view class="nf-chart">
+    <view class="nf-canvas">
+      <canvas type="2d" id="canvas" style="height:{{height}}px;width:{{width}}px"></canvas>
+    </view>
+</view>
